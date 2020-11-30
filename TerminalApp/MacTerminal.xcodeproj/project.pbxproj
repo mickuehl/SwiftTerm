@@ -17,8 +17,6 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		4936D21C24512A98005CEE27 /* SwiftSH.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SwiftSH.framework; path = ../../../../private/tmp/SwiftSH.framework; sourceTree = "<group>"; };
-		4936D22E2451386F005CEE27 /* SwiftSH.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SwiftSH.framework; path = SwiftSH.binaries/SwiftSH.framework; sourceTree = "<group>"; };
 		49C75E3F2419C7E9008977FE /* MacTerminal.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MacTerminal.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		49C75E432419C7E9008977FE /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		49C75E452419C7E9008977FE /* Document.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Document.swift; sourceTree = "<group>"; };
@@ -46,8 +44,6 @@
 		49AE019F2410AB0A0051E902 /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
-				4936D22E2451386F005CEE27 /* SwiftSH.framework */,
-				4936D21C24512A98005CEE27 /* SwiftSH.framework */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
